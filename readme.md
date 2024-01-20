@@ -4,6 +4,10 @@
 - Do 'enable truck-job'
 - DELETE the -main part of the folder
 
+# Inportant Information
+
+This script has not been tested as have no access to FiveM anymore, but has been debugged and no errors have came up in the terminal. If theres any issues please let me know and post an issue on GitHub, or use the discord linked below. Thank you and enjoy.
+
 # version 
 
 Version - 1.0.0
